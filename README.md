@@ -1,6 +1,6 @@
 # Computer Forensics Lab
 In this lab you will solve three of the computer forensics problems from the NSA sponsored [Toaster Wars high school hacking competition]( (also called a “capture the flag” competition or ctf for short). 
-+ [Problem 1 XMLOL](https://2013.picoctf.com/autoproblems/tmpBsOCkD.xml)
++ Problem 1 XMLOL: You've discovered a manual for the robot that has instructions on how to dump the corrupted configuration file from the robot's memory. You find a corrupted [XML file](tmpVrg2Ah.xml) and are looking for a configuration key.
 + [Problem 2 NAVSAT](https://2013.picoctf.com/problems/recovery.zip)
 + [Problem 3 Pilot Logic](https://2013.picoctf.com/problems/pilot_image)
 
