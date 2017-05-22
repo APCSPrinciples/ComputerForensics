@@ -4,15 +4,15 @@ The premise of the competition is that a robot from space has crash landed in yo
 
 Problem #1: XMLOL
 -----------------
-You've discovered a manual for the robot that has instructions on how to dump the corrupted configuration file from the robot's memory. You find a corrupted [XML file](tmpVrg2Ah.xml). Right click on the link, save the file to your computer and then use a hex editor like HxD to read the corrupted XML file. You are looking for a configuration key. When you think you've found it, show it to your instructor.
+You've discovered a manual for the robot that has instructions on how to dump the corrupted configuration file from the robot's memory. You find a corrupted [XML file](tmpVrg2Ah.xml). Right click on the link, save the file to your computer and then use a hex editor like HxD to open and read the corrupted XML file. You are looking for a configuration key. When you think you've found it, show it to your instructor.
 
 Problem #2: NAVSAT
 ------------------
-You are tracking the rogue space pilot trying to determine his location. Near the Sun, you find a malfunctioning warp beacon which is broadcasting a distress signal in a navigational channel. It looks like it's been damaged by solar radiation, and [some of its data](recovery.zip) have been corrupted. If you can recover it, perhaps it will point at you to something interesting. Right click on the link, save the file to your computer and then use a hex editor like HxD to read the file. Find the pilot’s location. When you think you've found it, show it to your instructor.
+You are tracking the rogue space pilot trying to determine his location. Near the Sun, you find a malfunctioning warp beacon which is broadcasting a distress signal in a navigational channel. It looks like it's been damaged by solar radiation, and [some of its data](recovery.zip) have been corrupted. If you can recover it, perhaps it will point at you to something interesting. Right click on the link, save the file to your computer and then use a hex editor like HxD to open and read the file. Find the pilot’s location. When you think you've found it, show it to your instructor.
 
 Problem #3: Pilot Logic
 -----------------------
-You've gotten a [partial dump of a disk image](pilot_image), and you're pretty sure that a password belonging to a rogue space pilot is cleverly hidden somewhere within it. Use HxD to read the disk image and discover the password. You may find searching with Ctrl F helpful.
+You've gotten a [partial dump of a disk image](pilot_image), and you're pretty sure that a password belonging to a rogue space pilot is cleverly hidden somewhere within it. Use HxD to open and read the disk image and discover the password. You may find searching with Ctrl F helpful.
 Find the pilot's password. When you think you've found it, show it to your instructor.
 
 
