@@ -12,7 +12,7 @@ You are tracking a rogue space pilot trying to determine his location. Near the 
 
 Problem #3: Pilot Logic
 -----------------------
-You've gotten a [partial dump of a disk image](pilot_image), and you're pretty sure that a password belonging to a rogue space pilot is cleverly hidden somewhere within it. Use HxD to open and read the disk image and discover the password. You may find searching with Ctrl F helpful.
+You've gotten a [partial dump of a disk image](pilot_image), and you're pretty sure that a password belonging to the rogue space pilot is cleverly hidden somewhere within it. Use HxD to open and read the disk image and discover the password. You may find searching with *Ctrl F* helpful.
 Find the pilot's password. When you think you've found it, show it to your instructor.
 
 
