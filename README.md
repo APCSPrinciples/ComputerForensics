@@ -8,7 +8,7 @@ You've discovered a manual for the robot that has instructions on how to dump th
 
 Problem #2: NAVSAT
 ------------------
-You are tracking the rogue space pilot trying to determine his location. Near the Sun, you find a malfunctioning warp beacon which is broadcasting a distress signal in a navigational channel. It looks like it's been damaged by solar radiation, and [some of its data](recovery.zip) have been corrupted. If you can recover it, perhaps it will point at you to something interesting. Right click on the link, save the file to your computer and then use a hex editor like HxD to open and read the file. Find the pilot’s location. When you think you've found it, show it to your instructor.
+You are tracking a rogue space pilot trying to determine his location. Near the Sun, you find a malfunctioning warp beacon which is broadcasting a distress signal in a navigational channel. It looks like it's been damaged by solar radiation, and [some of its data](recovery.zip) have been corrupted. If you can recover it, perhaps it will point at you to something interesting. Right click on the link, save the file to your computer and then use a hex editor like HxD to open and read the file. Find the pilot’s location. When you think you've found it, show it to your instructor.
 
 Problem #3: Pilot Logic
 -----------------------
