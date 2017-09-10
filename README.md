@@ -1,6 +1,6 @@
 # Computer Forensics Lab
 ![ToasterWars.jpg](ToasterWars.jpg)   
-In this lab you will solve three of the computer forensics problems from the Toaster Wars high school hacking competition (sometimes called a “capture the flag” competition or ctf for short).
+In this lab you will solve three of the computer forensics problems from the Toaster Wars high school hacking competition (sometimes called a “capture the flag” competition or *ctf* for short).
 The premise of the competition is that a robot from space has crash landed in your backyard. It's up to you and your hacking skills to uncover the secrets he carries. For all three of these problems you will use a hex editor like HxD to examine computer files looking for clues. When you think you’ve found the answer show it to your instructor to check it.
 
 Problem #1: XMLOL
