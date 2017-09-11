@@ -9,11 +9,11 @@ You've discovered a manual for the robot that has instructions on how to dump th
 
 Problem #2: NAVSAT
 ------------------
-You are tracking a rogue space pilot trying to determine his location. Near the Sun, you find a malfunctioning warp beacon which is broadcasting a distress signal in a navigational channel. It looks like it's been damaged by solar radiation, and [some of its data](recovery.zip) have been corrupted. If you can recover it, perhaps it will point at you to something interesting. Right click on the link, save the file to your computer and then use a hex editor like HxD to open and read the file. Find the pilot’s location. When you think you've found it, show it to your instructor.
+You are tracking a rogue space pilot trying to determine his location. Near the Sun, you find a malfunctioning warp beacon which is broadcasting a distress signal in a navigational channel. It looks like it's been damaged by solar radiation, and [some of its data](https://drive.google.com/uc?export=download&id=0Bz2ZkT6qWPYTTGVVNVUzSDcxd28) have been corrupted. If you can recover it, perhaps it will point at you to something interesting. Click on the link, save the file to your computer and then use a hex editor like HxD to open and read the file. Find the pilot’s location. When you think you've found it, show it to your instructor.
 
 Problem #3: Pilot Logic
 -----------------------
-You've gotten a [partial dump of a disk image](pilot_image), and you're pretty sure that a password belonging to the rogue space pilot is cleverly hidden somewhere within it. Use HxD to open and read the disk image and discover the password. You may find searching with *Ctrl F* helpful.
+You've gotten a [partial dump of a disk image](https://drive.google.com/uc?export=download&id=0Bz2ZkT6qWPYTUU90UmJ6WVNjSzA), and you're pretty sure that a password belonging to the rogue space pilot is cleverly hidden somewhere within it. Click the link, save the file to your computer and then use HxD to open and read the disk image and discover the password. You may find searching with *Ctrl F* helpful.
 Find the pilot's password. When you think you've found it, show it to your instructor.
 
 
