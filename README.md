@@ -5,7 +5,7 @@ The premise of the competition is that a robot from space has crash landed in yo
 
 Problem #1: XMLOL
 -----------------
-You've discovered a manual for the robot that has instructions on how to dump the corrupted configuration file from the robot's memory. Right click on the corrupted [XML file](https://github.com/ctfs/write-ups-2013/blob/master/pico-ctf-2013/xmlol/tmpVrg2Ah.xml) and choose *Save link as* to save the file to your computer. Then use a hex editor like HxD to open and read the corrupted file. You are looking for a configuration key. When you think you've found it, show it to your instructor.
+You've discovered a manual for the robot that has instructions on how to dump the corrupted configuration file from the robot's memory. Right click on the corrupted [XML file](tmpVrg2Ah.xm) and choose *Save link as* to save the file to your computer. Then use a hex editor like HxD to open and read the corrupted file. You are looking for a configuration key. When you think you've found it, show it to your instructor.
 
 Problem #2: NAVSAT
 ------------------
