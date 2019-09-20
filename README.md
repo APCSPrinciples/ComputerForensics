@@ -16,4 +16,8 @@ Problem #3: Pilot Logic
 You've gotten a [partial dump of a disk image](https://drive.google.com/uc?export=download&id=0Bz2ZkT6qWPYTUU90UmJ6WVNjSzA), and you're pretty sure that a password belonging to the rogue space pilot is cleverly hidden somewhere within it. Click the link, save the file to your computer and then use HxD to open and read the disk image and discover the password. You may find searching with *Ctrl F* helpful.
 Find the pilot's password. When you think you've found it, show it to your instructor.
 
+Problem #4: Pilot Logic
+-----------------------
+You've learned that the rogue space pilot cleverly hid a hexidecimal encryption key in a [textfile](https://drive.google.com/uc?export=download&id=0Bz2ZkT6qWPYTUU90UmJ6WVNjSzA). Rumor has it the pilot was enamored with [Hexspeak](https://en.wikipedia.org/wiki/Hexspeak) and marked the encryption key with magic numbers. Click the link, save the file to your computer and then use HxD to open and read the hexadeciaml code and discover the encryption key. When you think you've found it, show it to your instructor.
+
 
