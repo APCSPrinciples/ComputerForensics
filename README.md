@@ -18,6 +18,6 @@ Find the pilot's password. When you think you've found it, show it to your instr
 
 Problem #4: Hexspeak
 -----------------------
-You've learned that the rogue space pilot cleverly hid a hexidecimal encryption key in a [textfile](https://drive.google.com/uc?export=download&id=1c59YaBR8y9YNk55zI4ay5_x64FRoLtPX). Rumor has it the pilot was enamored with [Hexspeak](https://en.wikipedia.org/wiki/Hexspeak) and marked the encryption key with magic numbers. Click the link, save the file to your computer and then use HxD to open and read the hexadeciaml code and discover the encryption key. When you think you've found it, show it to your instructor.
+You've learned that the rogue space pilot cleverly hid a 128 bit (16 digit) hexidecimal encryption key in a [textfile](https://drive.google.com/uc?export=download&id=1c59YaBR8y9YNk55zI4ay5_x64FRoLtPX). Rumor has it the pilot was enamored with [Hexspeak](https://en.wikipedia.org/wiki/Hexspeak) and marked the beginning and end of the encryption key with magic numbers. Click the link, save the file to your computer and then use HxD to open and read the hexadeciaml code and discover the encryption key. When you think you've found it, show it to your instructor.
 
 
